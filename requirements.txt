@@ -3,6 +3,5 @@ numpy
 matplotlib
 tqdm
 pandas
-time
 scipy
 sklearn
