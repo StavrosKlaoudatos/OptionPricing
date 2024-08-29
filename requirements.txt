@@ -4,4 +4,4 @@ matplotlib
 tqdm
 pandas
 scipy
-sklearn
+scikit-learn
